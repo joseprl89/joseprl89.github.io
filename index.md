@@ -3,7 +3,7 @@ layout: default
 title: Josep Rodriguez
 ---
 
-# Hi!
+Hi!
 
 My name is Josep Rodriguez, and I am a *Mobile Senior Software Engineer* who
 strives for well crafted software, Continuous Integration and Continuous
