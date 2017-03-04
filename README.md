@@ -1,4 +1,4 @@
-# About me
+## About me
 
 I am a Mobile Senior Software Engineer who strives for well crafted software, CI&CD to deliver value to organisations.
 
@@ -6,10 +6,10 @@ My favourite quote is from Futurama's Professor Hubert J. Farnsworth: "The pursu
 
 [You can see my resume here.](/resume.html)
 
-## iOS development
+### iOS development
 
 Lorem ipsum
 
-## Android development
+### Android development
 
 Lorem ipsum
