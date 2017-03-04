@@ -24,5 +24,4 @@ Apart from this breadth of technologies I've been involved in, I have experience
 the whole lifecycle of a project, from ideation, technical workshops, NFR gathering,
 to releasing to the app store, and maintaining the product.
 
-
 Feel free to check out my [Resume](/resume.html) or my [Linkedin profile](https://www.linkedin.com/in/joseprl89/) for further information.
