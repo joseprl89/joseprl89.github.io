@@ -1,1 +1,10 @@
-theme: jekyll-theme-minimal
+title: Josep Rodriguez
+description: > # this means to ignore newlines until "baseurl:"
+  I am a Mobile Senior Software Engineer who strives for well crafted
+  software, CI&CD to deliver value to organisations.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  joseprl89
+linkedin_username:  joseprl89
+
+theme: minimal
