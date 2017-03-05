@@ -40,7 +40,7 @@ The company was bought by Just-Eat and no longer exists.
 
 ## [By-Taxi](https://itunes.apple.com/gb/app/by-taxi/id524360817?mt=8)
 
-![MobileID](/assets/bytaxi.png)
+![By-Taxi](/assets/bytaxi-ios.jpeg)
 
 ### Uses:
 
