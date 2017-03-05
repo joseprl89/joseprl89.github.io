@@ -5,6 +5,45 @@ title: iOS portfolio
 
 # iOS portfolio
 
+## [Total Mama](https://innovation.ox.ac.uk/incubator-ventures/total-mama/)
+
+This project was a startup that spin-off from Oxford university, trying to
+improve the health of pregnant mothers and their babies by monitoring their progress
+and offering advice based on input from experts at Oxford.
+
+Sadly, it was never finished due to lack of funding.
+
+### Uses:
+
+* MVP architecture
+  * Plain old object acts as *Presenter*.
+  * *UIViewController* arranges *View* and *Presenter* together.
+  * *UIView* subclass acts as *View*.
+* [Charts](https://github.com/danielgindi/Charts)
+* *ResearchKit* to obtain data from the mothers and use in Oxford's research.
+* Executed mathematical functions obtained from Oxford's research to plot the data in charts.
+
+## [Nuffield HealthScore](https://www.nuffieldhealth.com/healthscore)
+
+A health tracking application that we inherited from another company. In the 2.1 release
+we re-skinned the whole application with a new set of designs produced by yet another 3rd Party.
+
+In 2.2 we integrated with *HealthKit* and *Microsoft Band* to obtain more data from the user
+to better reflect their health in the app.
+
+After being maintained by another agency, the product was discontinued.
+
+![Nuffield HealthScore](nuffieldhealthscore.jpeg)
+
+### Uses:
+
+* *Push notifications*
+* *Offline functionality*
+* *HealthKit*
+* *Microsoft Band*
+* Bespoke circular chart written as a UIView subclass, including animations
+* Device sensor's to track activities like running.
+
 ## [Barcelona City App](https://itunes.apple.com/gb/app/barcelona-city-app/id660676262?mt=8)
 
 ![Barcelona City App](/assets/bcncity.png)
@@ -12,7 +51,7 @@ title: iOS portfolio
 ### Uses:
 
 * Geofences
-* NodeJS (Express+MongoDB) backend
+* *NodeJS* (*Express* + *MongoDB*) backend
 * Push notifications
 
 ## [Food2U](http://appcircus.com/apps/food2u)
