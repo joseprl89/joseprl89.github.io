@@ -20,7 +20,7 @@ On top of that migration, we included in the script toolbox:
 * Generate version number from git hash, plus build metadata (e.g. environment built for).
 * Tweak XCArchives before signing them to configure build flavours without requiring a full rebuild (saves compilation time).
 
-## Migration from Ruby scripts to Fastlane generic script
+## Migration from Ruby scripts to Fastlane generic script
 
 After undertaking the first migration, we decided to give Fastlane a go. Since the
 company is an agency, we had to cater for several projects that behave mostly the same,
