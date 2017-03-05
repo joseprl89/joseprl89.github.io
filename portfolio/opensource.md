@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: childpage
 title: iOS portfolio
 ---
 
