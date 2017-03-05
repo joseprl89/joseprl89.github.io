@@ -40,7 +40,7 @@ Uses:
 
 ## [By-Taxi](https://itunes.apple.com/gb/app/by-taxi/id524360817?mt=8)
 
-![MobileID](/assets/mobileid.png)
+![MobileID](/assets/bytaxi.png)
 
 Uses:
 
