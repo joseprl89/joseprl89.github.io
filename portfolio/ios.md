@@ -13,6 +13,10 @@ and offering advice based on input from experts at Oxford.
 
 Sadly, it was never finished due to lack of funding.
 
+![Total Mama Home page](/assets/totalmamahome.png)
+
+![Total Mama Charts](/assets/totalmamacharts.png)
+
 ### Uses:
 
 * MVP architecture
@@ -33,7 +37,7 @@ to better reflect their health in the app.
 
 After being maintained by another agency, the product was discontinued.
 
-![Nuffield HealthScore](nuffieldhealthscore.jpeg)
+![Nuffield HealthScore](/assets/nuffieldhealthscore.jpeg)
 
 ### Uses:
 
