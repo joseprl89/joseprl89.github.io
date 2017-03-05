@@ -12,5 +12,6 @@ all the projects I've contributed to in the past.
 
 * [iOS](ios)
 * [Android](android)
+* [CI&CD](cicd)
 * [Other](other)
 * [Open source](opensource)
