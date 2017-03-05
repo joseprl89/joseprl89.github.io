@@ -5,7 +5,7 @@ title: iOS portfolio
 
 # iOS portfolio
 
-*Note that most recent projects I've worked on are protected by NDA and I can't list them here.*
+*Note that most recent projects I have worked on are protected by NDA and I can not list them here.*
 
 ## [Total Mama](https://innovation.ox.ac.uk/incubator-ventures/total-mama/)
 
@@ -46,7 +46,7 @@ After being maintained by another agency, the product was discontinued.
 * *HealthKit*
 * *Microsoft Band*
 * Bespoke circular chart written as a *UIView* subclass, including animations
-* Device sensor's to track activities like running.
+* Device sensors to track activities like running.
 
 ## [Barcelona City App](https://itunes.apple.com/gb/app/barcelona-city-app/id660676262?mt=8)
 

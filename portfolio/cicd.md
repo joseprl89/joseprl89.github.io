@@ -35,7 +35,7 @@ This migration involved:
 * Writing *Fastlane* actions wrapping the initial Ruby scripts we had.
 * Writing a *Fastfile* to cover all the different kind of jobs we have in all the projects.
 * Designing the configuration YAML file.
-* Documenting it all. If it is not documented, it doesn't exist.
+* Documenting it all. If it is not documented, it does not exist.
 * Creation of sample project using this new approach.
 
 With this, other projects would import as a submodule the Fastlane repository and

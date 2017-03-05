@@ -3,7 +3,7 @@ layout: page
 title: iOS portfolio
 ---
 
-*Note that most recent projects I've worked on are protected by NDA and I can't list them here.*
+*Note that most recent projects I have worked on are protected by NDA and I can not list them here.*
 
 # Other portfolio
 
