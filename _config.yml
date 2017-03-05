@@ -2,3 +2,10 @@ title: Josep Rodriguez
 theme: jekyll-theme-minimal
 name: Josep Rodriguez
 markdown: kramdown
+pages:
+  - name: Home page
+    url: /
+  - name: View My Portfolio
+    url: /portfolio
+  - name: View My Resume
+    url: /resume

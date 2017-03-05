@@ -24,7 +24,12 @@
         {% if site.github.is_user_page %}
           <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
-        <p class="view"><a href="/resume">View My Resume</a></p>
+
+        {% if site.pages %}
+          {% for page in site.pages %}
+            <p class="view"><a href="{{ page.url }}">{{ page.name }}</a></p>
+          {% endfor %}
+        {% endif %}
 
         {% if site.show_downloads %}
           <ul>
