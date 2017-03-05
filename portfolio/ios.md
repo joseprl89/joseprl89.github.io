@@ -15,8 +15,6 @@ and offering advice based on input from experts at Oxford.
 
 Sadly, it was never finished due to lack of funding.
 
-![Total Mama Home page](/assets/totalmamahome.png)
-
 ![Total Mama Charts](/assets/totalmamacharts.png)
 
 ### Uses:
