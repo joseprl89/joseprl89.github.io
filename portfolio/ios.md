@@ -9,7 +9,7 @@ title: iOS portfolio
 
 ![Barcelona City App](/assets/bcncity.png)
 
-Uses:
+### Uses:
 
 * Geofences
 * NodeJS (Express+MongoDB) backend
@@ -21,7 +21,7 @@ Uses:
 
 The company was bought by Just-Eat and no longer exists.
 
-Uses:
+### Uses:
 
 * Titanium Appcelerator to build a cross-platform app (JS code).
 * PHP backend.
@@ -31,7 +31,7 @@ Uses:
 
 ![MobileID](/assets/mobileid.png)
 
-Uses:
+### Uses:
 
 * Certificate generation
 * Certificate signing
@@ -42,7 +42,7 @@ Uses:
 
 ![MobileID](/assets/bytaxi.png)
 
-Uses:
+### Uses:
 
 * Apple Maps
 * Geofences
