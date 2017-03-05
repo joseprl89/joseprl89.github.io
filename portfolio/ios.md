@@ -19,13 +19,13 @@ Sadly, it was never finished due to lack of funding.
 
 ### Uses:
 
-* MVP architecture
-  * Plain old object acts as *Presenter*.
-  * *UIViewController* arranges *View* and *Presenter* together.
-  * *UIView* subclass acts as *View*.
 * [Charts](https://github.com/danielgindi/Charts)
 * *ResearchKit* to obtain data from the mothers and use in Oxford's research.
 * Executed mathematical functions obtained from Oxford's research to plot the data in charts.
+* *Model-View-Presenter* architecture
+  * Plain old object acts as *Presenter*.
+  * *UIViewController* arranges *View* and *Presenter* together.
+  * *UIView* subclass acts as *View*.
 
 ## [Nuffield HealthScore](https://www.nuffieldhealth.com/healthscore)
 
@@ -41,11 +41,11 @@ After being maintained by another agency, the product was discontinued.
 
 ### Uses:
 
-* *Push notifications*
-* *Offline functionality*
+* Push notifications
+* Offline functionality
 * *HealthKit*
 * *Microsoft Band*
-* Bespoke circular chart written as a UIView subclass, including animations
+* Bespoke circular chart written as a *UIView* subclass, including animations
 * Device sensor's to track activities like running.
 
 ## [Barcelona City App](https://itunes.apple.com/gb/app/barcelona-city-app/id660676262?mt=8)
@@ -66,9 +66,9 @@ The company was bought by Just-Eat and no longer exists.
 
 ### Uses:
 
-* Titanium Appcelerator to build a cross-platform app (JS code).
-* PHP backend.
-* Twilio to dispatch orders to restaurants.
+* *Titanium Appcelerator* to build a cross-platform app (JS code).
+* *LAMP* stack.
+* *Twilio* to dispatch orders to restaurants.
 
 ## [MobileID](http://www.mobileid.cat/en/)
 
@@ -87,7 +87,7 @@ The company was bought by Just-Eat and no longer exists.
 
 ### Uses:
 
-* Apple Maps
-* Geofences
-* WebSockets
+* *MapKit*
+* *Geofences*
+* *WebSockets*
 * Push notifications
