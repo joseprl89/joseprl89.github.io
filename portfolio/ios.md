@@ -5,6 +5,8 @@ title: iOS portfolio
 
 # iOS portfolio
 
+*Note that most recent projects I've worked on are protected by NDA and I can't list them here.*
+
 ## [Total Mama](https://innovation.ox.ac.uk/incubator-ventures/total-mama/)
 
 This project was a startup that spin-off from Oxford university, trying to
