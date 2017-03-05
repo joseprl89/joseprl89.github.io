@@ -2,3 +2,10 @@ title: Josep Rodriguez
 theme: jekyll-theme-minimal
 name: Josep Rodriguez
 markdown: kramdown
+portfolio:
+  - ios:
+    portfolio/ios.html
+  - android:
+    portfolio/android.html
+  - other:
+    portfolio/other.html
