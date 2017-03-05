@@ -3,7 +3,7 @@ layout: page
 title: Josep Rodriguez
 ---
 
-Hi!
+# Hi!
 
 My name is Josep Rodriguez, and I am a *Mobile Senior Software Engineer* who
 strives for well crafted software, Continuous Integration and Continuous
@@ -24,5 +24,5 @@ Apart from this breadth of technologies I've been involved in, I have experience
 the whole lifecycle of a project, from ideation, technical workshops, NFR gathering,
 to releasing to the app store, and maintaining the product.
 
-
-Feel free to check out my [Resume](/resume.html) or my [Linkedin profile](https://www.linkedin.com/in/joseprl89/) for further information.
+Feel free to check out my [Resume](/resume.html), my [Portfolio](/portfolio), or my
+[Linkedin profile](https://www.linkedin.com/in/joseprl89/) for further information.
