@@ -11,7 +11,7 @@ When I joined one of my employers, we were using bash scripts in order to build
 iOS and Android projects, as well as signing it and uploading to HockeyApp.
 
 Over time, we migrated to Ruby those scripts so as to have proper arguments in
-the script (--hockey-app-token Token instead of relying on order), and to maintain
+the script (*--hockey-app-token <TOKEN>* instead of relying on order), and to maintain
 our scripts in a language the company had experience on (after using Calabash for
 automation testing).
 
