@@ -2,7 +2,7 @@ title: Josep Rodriguez
 theme: jekyll-theme-minimal
 name: Josep Rodriguez
 markdown: kramdown
-pages:
+bookmark:
   - name: Home page
     url: /
   - name: View My Portfolio
