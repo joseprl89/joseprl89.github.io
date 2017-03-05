@@ -15,13 +15,15 @@ but lived in Barcelona for 8 years, studying and working, before moving to Londo
 I focus in iOS application development, being also proficient in Android,
 even though I have also worked in several other technologies:
 
-* NodeJS backends
-* PHP backends
-* Eclipse RCP
-* Front-end development using Bootstrap and JQuery
+* Back-end Software development
+  * *NodeJS*
+  * *LAMP* stack
+  * *Java* servers
+* *Eclipse RCP*
+* Web development using *Bootstrap* and *JQuery*
 
 Apart from this breadth of technologies I've been involved in, I have experienced
-the whole lifecycle of a project, from ideation, technical workshops, NFR gathering,
+the whole lifecycle of a project, from ideation, technical workshops, *NFR* gathering,
 to releasing to the app store, and maintaining the product.
 
 Feel free to check out my [Resume](/resume.html), my [Portfolio](/portfolio), or my
