@@ -3,7 +3,7 @@ layout: page
 title: iOS portfolio
 ---
 
-## Open source
+# Open source
 
 Not enough time to do any significant open source contributions, apart from minor
 contributions here and there.
