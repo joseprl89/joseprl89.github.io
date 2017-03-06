@@ -1,6 +1,6 @@
 ---
 layout: page
-title: iOS portfolio
+title: Other portfolio
 ---
 
 *Note that most recent projects I have worked on are protected by NDA and I can not list them here.*

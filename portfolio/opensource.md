@@ -1,6 +1,6 @@
 ---
 layout: page
-title: iOS portfolio
+title: Open Source portfolio
 ---
 
 # Open source
