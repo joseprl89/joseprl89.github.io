@@ -1,7 +1,9 @@
 title: Josep Rodriguez
+google_analytics: UA-52154663-2
 theme: jekyll-theme-minimal
 name: Josep Rodriguez
 markdown: kramdown
+
 bookmark:
   - name: Home page
     url: /
