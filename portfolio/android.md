@@ -24,7 +24,7 @@ A startup two coworkers created and I helped deliver using *Titanium Appcelerato
 It was eventually bought by [Just-Eat](http://www.restauracionnews.com/just-eat-compra-la-plataforma-food2u/)
 and the product was discontinued.
 
-## Nuffield Healthscore
+## Nuffield Healthscore
 
 An app to track the health of the user and provide a score based on the user's behaviour
 and input.
@@ -34,4 +34,4 @@ After inheriting the codebase from a different agency, we released two versions 
 * Reskinned the whole app with a better UI.
 * Integrated with *Microsoft Band*
 
-![Nuffield Healthscore](assets/nuffieldhealthscore-android.png)
+![Nuffield Healthscore](/assets/nuffieldhealthscore-android.png)
