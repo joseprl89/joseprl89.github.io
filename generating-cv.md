@@ -30,3 +30,9 @@ elegantprofile, as per its root repo
 
 First time I used the tool, the PDF extracter didn't work properly, so I had to tinker with the HTML using the chrome 
 dev tools, then take a snapshot of it using fireshot.
+
+# Where to upload
+
+The flat theme has to go to the resume.html file.
+
+The elegantprofile pdf extracted has to go to the PDF version of it.
