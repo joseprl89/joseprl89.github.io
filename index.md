@@ -12,7 +12,7 @@ Deployment to deliver value to organisations.
 I am originally from [Minorca](https://www.google.co.uk/search?q=menorca&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiOpqC2_7zSAhUIIMAKHZ_eABEQ_AUICCgB&biw=1210&bih=961),
 but lived in Barcelona for 8 years, studying and working, before moving to London.
 
-I focus in *iOS application development*, being also proficient in *Android*,
+I focus in **iOS application development**, being also proficient in **Android**,
 even though I have also worked in several other technologies:
 
 * Back-end Software development
@@ -22,7 +22,7 @@ even though I have also worked in several other technologies:
 * *Eclipse RCP*
 * Web development using *Bootstrap* and *JQuery*
 * Mobile Cross platform development
-  * *Xamarin*
+  * **Xamarin**
   * Titanium Appcelerator
 
 Apart from this breadth of technologies I have been involved in, I have experienced
